@@ -1,0 +1,21 @@
+body {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.movie_detail {
+  width: 1080px;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(236, 208, 236, 0.3);
+  margin-top: 150px;
+  padding: 20px;
+}
+
+.movie_detail__data {
+  width: 60%;
+}
+h2 {
+  font-size: 40px;
+}
